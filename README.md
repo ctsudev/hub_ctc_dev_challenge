@@ -20,7 +20,7 @@ The solution must include:
 - A frontend using Angular 20+
 - A PostgreSQL 18+ database
 
-All components must be installable and runnable locally in Docker.
+All components must be installable and runnable locally (ideally in Docker).
 
 TypeScript is required.
 
