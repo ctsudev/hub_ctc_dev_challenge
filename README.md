@@ -16,9 +16,9 @@ You are asked to deliver a complete and operational solution.
 
 The solution must include:
 
-- A backend using NestJS (Node.js 22+)
-- A frontend using Angular 18+
-- A PostgreSQL 16+ database
+- A backend using NestJS (Node.js 24+)
+- A frontend using Angular 20+
+- A PostgreSQL 18+ database
 
 All components must be installable and runnable locally.  
 TypeScript is required.
