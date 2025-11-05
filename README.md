@@ -21,6 +21,7 @@ The solution must include:
 - A PostgreSQL 18+ database
 
 All components must be installable and runnable locally in Docker.
+
 TypeScript is required.
 
 ---
