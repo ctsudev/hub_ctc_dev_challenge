@@ -62,7 +62,7 @@ The relationship between subjects and centers must be fully managed by the syste
 
 Add authentication to protect the application.  
 Unauthenticated users may only access the login interface.  
-Authenticated users can access the complete application features.
+Authenticated users can access the sites (and subjects) they are linked to.
 
 ---
 
